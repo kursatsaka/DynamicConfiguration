@@ -1,0 +1,8 @@
+{
+  "Id": 1,
+  "Name": "SiteName",
+  "Type": "String",
+  "Value": "Boyner.com.tr",
+  "IsActive": 1,
+  "ApplicationName": "SERVICE-A"
+}
